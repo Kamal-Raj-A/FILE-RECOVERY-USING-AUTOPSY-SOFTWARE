@@ -25,6 +25,7 @@ flowchart TD
 ## DESIGN STEPS:
 ### Step 1:
 Open Autopsy and create a new case with appropriate case details.
+.
 
 ### Step 2:
 Add a disk image as a data source and let Autopsy analyze the content.
