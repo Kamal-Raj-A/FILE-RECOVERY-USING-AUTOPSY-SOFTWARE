@@ -34,7 +34,6 @@ Add a disk image as a data source and let Autopsy analyze the content.
 <img width="1919" height="1000" alt="Screenshot 2025-09-06 133643" src="https://github.com/user-attachments/assets/65b1a1e5-f4da-4f62-8314-ee5831364004" />
 <img width="1919" height="989" alt="Screenshot 2025-09-06 134236" src="https://github.com/user-attachments/assets/47f5a7b1-f4ec-49c4-a89b-58d1efda5fa2" />
 <img width="1919" height="1066" alt="Screenshot 2025-09-06 134340" src="https://github.com/user-attachments/assets/a867afb1-e916-4b59-ad42-f80233568398" />
-<img width="1475" height="826" alt="Screenshot 2025-09-06 134429" src="https://github.com/user-attachments/assets/bdc85528-d5aa-487b-9687-bc62c5efec42" />
 
 ### Step 3:
 Navigate to the "Deleted Files" section in Autopsy and examine or recover the deleted files.
